@@ -1,0 +1,6 @@
+@SegundoExamenAzure_HostAddress = http://localhost:5229
+
+GET {{SegundoExamenAzure_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
